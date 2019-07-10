@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "United Ubuntu",
+    "window.zoomLevel": 0,
+    "editor.renderWhitespace": "all",
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 4,
+    "editor.autoClosingBrackets": true,
+    "editor.autoIndent": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line",
+    "editor.detectIndentation": true,
+    "editor.emptySelectionClipboard": true,
+    "editor.matchBrackets": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "liveServer.settings.donotShowInfoMsg": true
+}
